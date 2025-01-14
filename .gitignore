@@ -1,1 +1,23 @@
+# Node.js / npm
 node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+*.log.*
+*.access
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# Build / Distribution directories
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.*.local
